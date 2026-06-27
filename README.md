@@ -14,11 +14,29 @@ Building scalable SaaS applications, modern web experiences, and AI-driven produ
 
 ---
 
-# 🚀 About Me
+🚀 About Me
 
-I'm a **Full Stack Engineer** based in **Pune, India 🇮🇳** with over **2 years of professional experience** building production-ready SaaS platforms.
+I'm a Full Stack Engineer from Pune, India 🇮🇳 who enjoys building products from an idea on a whiteboard to something real that people can use.
 
-During my career, I've worked on applications used by recruiters, students, and job seekers, focusing on responsive frontend architecture, scalable UI systems, API integrations, authentication, payments, and AI-assisted experiences.
+Over the last few years, I've contributed to production SaaS platforms across recruitment, education, AI, and content management. My work has ranged from designing scalable frontend architectures and building responsive interfaces to integrating APIs, authentication systems, payment workflows, and AI-powered experiences.
+
+When my last project concluded, I made a conscious decision: rather than rushing into the next role, I wanted to become a stronger engineer.
+
+Since then, I've been investing my time in expanding beyond frontend development—learning Java, backend architecture, cloud technologies, AWS, AI engineering, and system design—while building JobTracker AI, a product born from a problem I experienced myself during the job search.
+
+I believe the best way to learn engineering isn't by collecting certificates—it's by building products that solve real problems.
+
+✨ What Drives Me
+
+I enjoy building software where users immediately feel the impact.
+
+Whether it's helping recruiters hire faster, enabling students to complete AI-assisted assessments, improving ATS scores, or making the job search less overwhelming, I like building products that remove friction from everyday workflows.
+
+Every project teaches me something new.
+
+Every product makes me a better engineer.
+
+And every line of code is an investment in solving bigger problems tomorrow.
 
 ### Highlights
 
@@ -42,8 +60,6 @@ An AI-powered job search companion designed to simplify every stage of the job h
 ### Planned Features
 
 * 📋 Job Application Tracker
-* 🤖 AI Resume Review
-* ✍️ AI Cover Letter Generator
 * 🎯 Interview Preparation
 * 🌐 Chrome Extension to Save Jobs
 * 📊 Analytics Dashboard
