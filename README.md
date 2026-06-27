@@ -16,7 +16,7 @@ Building scalable SaaS applications, modern web experiences, and AI-driven produ
 
 🚀 About Me
 
-I'm a Full Stack Engineer from Pune, India 🇮🇳 who enjoys building products from an idea on a whiteboard to something real that people can use.
+*/I'm a Full Stack Engineer from Pune, India 🇮🇳 who enjoys building products from an idea on a whiteboard to something real that people can use.
 
 Over the last few years, I've contributed to production SaaS platforms across recruitment, education, AI, and content management. My work has ranged from designing scalable frontend architectures and building responsive interfaces to integrating APIs, authentication systems, payment workflows, and AI-powered experiences.
 
@@ -36,7 +36,9 @@ Every project teaches me something new.
 
 Every product makes me a better engineer.
 
-And every line of code is an investment in solving bigger problems tomorrow.
+And every line of code is an investment in solving bigger problems tomorrow. /*
+
+I'm a **Full Stack Engineer** based in **Pune, India 🇮🇳** with over **2 years of professional experience** building production-ready SaaS platforms. During my career, I've worked on applications used by recruiters, students, and job seekers, focusing on responsive frontend architecture, scalable UI systems, API integrations, authentication, payments, and AI-assisted experiences.
 
 ### Highlights
 
